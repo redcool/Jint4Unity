@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="ClassLibrary1\ClassLibrary1.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassLibrary1\jint\Native\JsValue.cs">
+    <Files>
+      <File FileName="ClassLibrary1\jint\Native\JsValue.cs" Line="7" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

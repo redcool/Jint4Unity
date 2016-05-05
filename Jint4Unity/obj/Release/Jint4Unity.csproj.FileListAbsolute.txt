@@ -1,0 +1,5 @@
+D:\Users\ken\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Release\Jint4Unity.dll
+D:\Users\ken\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Release\Jint4Unity.pdb
+D:\Users\ken\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Release\Jint4Unity.dll
+D:\Users\ken\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Release\Jint4Unity.pdb
+D:\Users\ken\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Release\Jint4Unity.csprojResolveAssemblyReference.cache

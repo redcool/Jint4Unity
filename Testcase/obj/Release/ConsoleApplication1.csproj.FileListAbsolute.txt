@@ -1,0 +1,8 @@
+D:\Users\ken\Documents\Visual Studio 2015\Projects\ClassLibrary1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+D:\Users\ken\Documents\Visual Studio 2015\Projects\ClassLibrary1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+D:\Users\ken\Documents\Visual Studio 2015\Projects\ClassLibrary1\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+D:\Users\ken\Documents\Visual Studio 2015\Projects\ClassLibrary1\ConsoleApplication1\obj\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Users\ken\Documents\Visual Studio 2015\Projects\ClassLibrary1\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+D:\Users\ken\Documents\Visual Studio 2015\Projects\ClassLibrary1\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+D:\Users\ken\Documents\Visual Studio 2015\Projects\ClassLibrary1\ConsoleApplication1\bin\Release\Jint4Unity.dll
+D:\Users\ken\Documents\Visual Studio 2015\Projects\ClassLibrary1\ConsoleApplication1\bin\Release\Jint4Unity.pdb

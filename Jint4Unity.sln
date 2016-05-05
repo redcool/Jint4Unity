@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jint4Unity", "Jint4Unity\Jint4Unity.csproj", "{53E56CA8-7EFA-4669-9D20-FEE8608F3205}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testcase", "Testcase\Testcase.csproj", "{B1C92AB2-F54C-4B12-9300-1F99EDA7AF27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53E56CA8-7EFA-4669-9D20-FEE8608F3205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E56CA8-7EFA-4669-9D20-FEE8608F3205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E56CA8-7EFA-4669-9D20-FEE8608F3205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E56CA8-7EFA-4669-9D20-FEE8608F3205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1C92AB2-F54C-4B12-9300-1F99EDA7AF27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1C92AB2-F54C-4B12-9300-1F99EDA7AF27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1C92AB2-F54C-4B12-9300-1F99EDA7AF27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1C92AB2-F54C-4B12-9300-1F99EDA7AF27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

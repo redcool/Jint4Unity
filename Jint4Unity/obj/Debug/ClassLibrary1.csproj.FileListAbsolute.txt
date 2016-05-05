@@ -1,0 +1,4 @@
+d:\Users\ken\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+d:\Users\ken\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+d:\Users\ken\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+d:\Users\ken\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
