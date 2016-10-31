@@ -1,2 +1,2 @@
 # Jint4Unity
-jint custom vertion for unity3d
+jint custom version for unity3d
